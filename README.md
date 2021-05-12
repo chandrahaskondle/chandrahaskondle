@@ -3,6 +3,7 @@
 - 💞️ I’m having experince in Java Spring-Boot, Node.js, Angular, MongoDB, MySQL.
 - 🌱 I’m currently learning Amazon AWS
 - 📫 How to reach me ... email: kondlechandrahas@gmail.com
+- Linkedin profile: https://www.linkedin.com/in/chandrahaskondle/
 
 <!---
 chandrahaskondle/chandrahaskondle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
