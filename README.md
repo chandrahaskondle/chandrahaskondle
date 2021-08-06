@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chandrahas Kondle. Currently working as Software-Engineer in IvyComptech.
+- 👋 Hi, I’m Chandrahas Kondle. Currently working as Software-Engineer.
 - 👀 I’m interested in building scalable & robust applications.
 - 💞️ I’m having experince in Java Spring-Boot, Node.js, Angular, MongoDB, MySQL.
 - 🌱 I’m currently learning Amazon AWS
